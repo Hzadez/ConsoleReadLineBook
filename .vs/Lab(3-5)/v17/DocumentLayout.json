@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|c:\\users\\user\\desktop\\backend\\lab(3-5)\\lab(3-5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|solutionrelative:lab(3-5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|c:\\users\\user\\desktop\\backend\\lab(3-5)\\lab(3-5)\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|solutionrelative:lab(3-5)\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|c:\\users\\user\\desktop\\backend\\lab(3-5)\\lab(3-5)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|solutionrelative:lab(3-5)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|c:\\users\\user\\desktop\\backend\\lab(3-5)\\lab(3-5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F628D255-53C4-415C-BC7F-9B8651498854}|Lab(3-5)\\Lab(3-5).csproj|solutionrelative:lab(3-5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\Lab(3-5)\\Program.cs",
               "RelativeDocumentMoniker": "Lab(3-5)\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\Lab(3-5)\\Program.cs",
               "RelativeToolTip": "Lab(3-5)\\Program.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwKEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T11:30:34.561Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\Lab(3-5)\\Book.cs",
               "RelativeDocumentMoniker": "Lab(3-5)\\Book.cs",
@@ -52,12 +52,11 @@
               "RelativeToolTip": "Lab(3-5)\\Book.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T14:09:56.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T14:09:56.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Emplyoee.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\Lab(3-5)\\Emplyoee.cs",
               "RelativeDocumentMoniker": "Lab(3-5)\\Emplyoee.cs",
@@ -65,12 +64,11 @@
               "RelativeToolTip": "Lab(3-5)\\Emplyoee.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:02:32.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T12:02:32.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Custom.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend\\Lab(3-5)\\Lab(3-5)\\Custom.cs",
               "RelativeDocumentMoniker": "Lab(3-5)\\Custom.cs",

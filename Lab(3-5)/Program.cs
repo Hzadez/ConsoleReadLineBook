@@ -113,22 +113,20 @@ namespace Lab_3_5_
                 Console.WriteLine("                                                    " + "5. WriteFile ");
                 Console.WriteLine("                                                    " + "6. ReadFile ");
                 Console.WriteLine("                                                    " + "0. Out ");
-                sechim= int.Parse(Console.ReadLine());
+                sechim = int.Parse(Console.ReadLine());
 
                 switch (sechim)
                 {
                     case 1:
-
-                            Console.Write("Book name: ");
-                            string bookName = Console.ReadLine();
-                            Console.Write("Author name: ");
-                            string authorName = Console.ReadLine();
-                            Console.Write("DateTime: ");
-                            int dateTime = int.Parse(Console.ReadLine());
-                            Book newBook = new Book(bookName, authorName, dateTime);
-                            list.Add(newBook);
-                            Console.WriteLine("Kitab muveffeqiyetle elave olundu.");
-                        
+                        Console.Write("Book name: ");
+                        string bookName = Console.ReadLine();
+                        Console.Write("Author name: ");
+                        string authorName = Console.ReadLine();
+                        Console.Write("DateTime: ");
+                        int dateTime = int.Parse(Console.ReadLine());
+                        Book newBook = new Book(bookName, authorName, dateTime);
+                        list.Add(newBook);
+                        Console.WriteLine("Kitab muveffeqiyetle elave olundu.");
                         break;
                     case 2:
                         list.ForEach(x => Console.WriteLine($"{x.Id},{x.Name},{x.Author},{x.PublicationYear}"));
@@ -151,7 +149,7 @@ namespace Lab_3_5_
                         //    File.Create(path + fileName);
                         //}
                         string serialize = JsonSerializer.Serialize(list);
-                        File.AppendAllLines(path + fileName,new List<string>());
+                        File.AppendAllLines(path + fileName, new List<string>());
                         using (StreamWriter sm = new StreamWriter(path + fileName, true))
                         {
                             sm.WriteLine(serialize);
@@ -159,16 +157,13 @@ namespace Lab_3_5_
                         break;
                     case 6:
                         Console.WriteLine("Read File");
-                        string readFileName = Console.ReadLine(); // Get the filename from the user
-
-                        // Read the file contents and deserialize the JSON data into a list of books
+                        string readFileName = Console.ReadLine();
                         using (StreamReader sr = new StreamReader(path + readFileName))
                         {
                             string fileContent = sr.ReadToEnd();
                             list = JsonSerializer.Deserialize<List<Book>>(fileContent);
                         }
 
-                        // Output each book name in the list
                         foreach (var book in list)
                         {
                             Console.WriteLine(book.Name);
@@ -177,7 +172,7 @@ namespace Lab_3_5_
                         break;
                     default:
                         Console.WriteLine("Yanlis secim. Zehmet olmasa yeniden cehd edin.");
-                        break ;
+                        break;
                 }
             } while (sechim != 0);
             #endregion
@@ -274,7 +269,7 @@ namespace Lab_3_5_
 
         #region Task3
 
-        
+
 
         #endregion
 
