@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\bin\Debug\net6.0\Lab(3-5).exe
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\bin\Debug\net6.0\Lab(3-5).deps.json
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\bin\Debug\net6.0\Lab(3-5).runtimeconfig.json
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\bin\Debug\net6.0\Lab(3-5).dll
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\bin\Debug\net6.0\Lab(3-5).pdb
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).AssemblyInfo.cs
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).dll
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\refint\Lab(3-5).dll
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).pdb
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\Lab(3-5).genruntimeconfig.cache
+C:\Users\user\Desktop\Backend\Lab(3-5)\Lab(3-5)\obj\Debug\net6.0\ref\Lab(3-5).dll
